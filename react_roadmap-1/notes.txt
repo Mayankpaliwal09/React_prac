@@ -1,0 +1,52 @@
+
+
+// why to learn react 
+
+-> hype , job , trend , build ui
+-> makes easy to manage & build complex front-end
+
+
+// when should i learn react 
+
+--> after mastering js 
+--> most project doesnt need react in initial phase
+
+
+
+// why react created 
+
+--> ghost message problem / phantom messge [chat ka count update nahi hota tha even after seen message ] that obtain react 
+--> no consistency in ui
+
+state -> js   &  ui --> dom   dono ke bich mei sink nahi hota tha 
+
+
+
+
+// react in a library 
+
+// TOPICS TO LEAARN  / core topics
+
+--> core of react [state or ui manipulation , jsx (js ke andar html likhna is jsx)]
+--> component reusablity [kisi button ko ek bar create krke alag-2 jagah use kaise kar skte hai ] / 
+
+--> resuing of components [props]  props means [properties] like js mei hum object mei likhte key:value yhi hote properties/props
+
+--> how to propagate change (hooks) --> usestate, useeffect etc
+
+
+
+// additional  topics [ and makes SPA [single page app] agar advance mei sikhte hai]
+
+--> router
+--> state managment (react dont have state managment at starting but ab hai)
+  extra lib use for state managment   --> redux, redux toolkit , zustand , context-api
+
+--> class based component
+     --> legacy code
+
+--> BAAS apps
+    --> social media clone , ecomm app ___
+
+
+ 
